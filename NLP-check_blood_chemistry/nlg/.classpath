@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="bimbingan_deby/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/fr.opensagres.xdocreport.itext.extension-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/ooxml-schemas-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/org.apache.poi.xwpf.converter.core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/org.apache.poi.xwpf.converter.pdf-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/org.apache.poi.xwpf.converter.xhtml-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="E:/College/TA/bimbingan-1/library/xmlbeans-2.3.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/words-java-examples"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

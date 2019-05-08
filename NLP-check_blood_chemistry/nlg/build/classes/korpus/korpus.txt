@@ -1,0 +1,138 @@
+Warna urin  pasien tidak normal. 
+Warna urin  pasien abnormal. 
+Pasien memiliki warna urin yang abnormal. 
+Pasien memiliki warna urin yang tidak normal. 
+Pasien mengalami keabnormalan pada warna urin. 
+Warna urin abnormal.
+Warna urin tidak normal. 
+Kejernihan urin pasien abnormal. 
+Kejernihan urin pasien tidak normal.
+Pasien memiliki kejernihan urin yang abnormal.
+Pasien memiliki kejernihan urin yang tidak normal. 
+Pasien mengalami keabnormalan pada kejernihan urin.
+Pasien mengalami peningkatan PH urin dari batas normal. 
+Pasien memiliki PH urin di atas batas normal. 
+PH urin berada di atas batas normal.
+Pasien mengalami penurunan PH urin dari batas normal. 
+Pasien memiliki PH urin di bawah batas normal. 
+PH urin berada di atas batas normal.
+Pasien memiliki urin yang abnormal karena mengandung protein. 
+Pasien memiliki urin yang tidak normal karena mengandung protein. 
+Urin pasien abnormal karena mengandung protein.
+Urin pasien tidak normal karena mengandung protein.
+Pasien memiliki kadar protein yang abnormal pada urin.
+Pasien memiliki kadar protein yang tidak normal pada urin.
+Kadar protein pada urin pasien abnormal.
+Kadar protein pada urin pasien tidak normal.
+Pasien memiliki urin yang abnormal karena mengandung glukosa.
+Pasien memiliki urin yang tidak normal karena mengandung glukosa. 
+Urin pasien abnormal karena mengandung glukosa.
+Urin pasien tidak normal karena mengandung glukosa.
+Pasien memiliki kadar glukosa yang abnormal pada urin.
+Pasien memiliki kadar glukosa yang tidak normal pada urin.
+Kadar glukosa pada urin pasien abnormal.
+Kadar glukosa pada urin pasien tidak normal.
+Pasien mengalami peningkatan kadar leukosit pada urin dari batas normal. 
+Pasien memiliki kadar leukosit pada urin di atas batas normal. 
+Kadar leukosit pada urin berada di atas batas normal.
+Pasien mengalami penurunan kadar leukosit pada urin dari batas normal. 
+Pasien memiliki kadar leukosit pada urin di bawah batas normal. 
+Kadar leukosit pada urin berada di bawah batas normal.
+Pasien mengalami peningkatan kadar eritrosit pada urin dari batas normal. 
+Pasien memiliki kadar eritrosit pada urin di atas batas normal. 
+Kadar eritrosit pada urin berada di atas batas normal.
+Pasien mengalami penurunan kadar eritrosit pada urin dari batas normal. 
+Pasien memiliki kadar eritrosit pada urin di bawah batas normal. 
+Kadar eritrosit pada urin berada di bawah batas normal.
+Pasien memiliki urin yang abnormal karena tidak mengandung epitel.
+Pasien memiliki urin yang tidak normal karena tidak mengandung epitel. 
+Urin pasien abnormal karena tidak mengandung epitel.
+Urin pasien tidak normal karena tidak mengandung epitel.
+Pasien memiliki kadar epitel yang abnormal pada urin.
+Pasien memiliki kadar epitel yang tidak normal pada urin.
+Kadar epitel pada urin pasien abnormal.
+Kadar epitel pada urin pasien tidak normal.
+Pasien memiliki urin yang abnormal karena mengandung silinder.
+Pasien memiliki urin yang tidak normal karena mengandung silinder. 
+Urin pasien abnormal karena mengandung silinder.
+Urin pasien tidak normal karena mengandung silinder.
+Pasien memiliki kadar silinder yang abnormal pada urin.
+Pasien memiliki kadar silinder yang tidak normal pada urin.
+Kadar silinder pada urin pasien abnormal.
+Kadar silinder pada urin pasien tidak normal.
+Pasien memiliki urin yang abnormal karena mengandung kristal.
+Pasien memiliki urin yang tidak normal karena mengandung kristal. 
+Urin pasien abnormal karena mengandung kristal.
+Urin pasien tidak normal karena mengandung kristal.
+Pasien memiliki kadar kristal yang abnormal pada urin.
+Pasien memiliki kadar kristal yang tidak normal pada urin.
+Kadar kristal pada urin pasien abnormal.
+Kadar kristal pada urin pasien tidak normal.
+Pasien memiliki urin yang abnormal karena mengandung bakteri.
+Pasien memiliki urin yang tidak normal karena mengandung bakteri. 
+Urin pasien abnormal karena mengandung bakteri.
+Urin pasien tidak normal karena mengandung bakteri.
+Pasien memiliki kadar bakteri yang abnormal pada urin.
+Pasien memiliki kadar bakteri yang tidak normal pada urin.
+Kadar bakteri pada urin pasien abnormal.
+Kadar bakteri pada urin pasien tidak normal.
+Kadar glukosa puasa pasien mengalami peningkatan dari batas normal. 
+Kadar glukosa puasa pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar glukosa puasa di atas batas normal. 
+Pasien memiliki kadar glukosa puasa di bawah batas normal. 
+Glukosa puasa berada di atas batas normal.
+Glukosa puasa berada di bawah batas normal.
+Kadar SGOT pasien mengalami peningkatan dari batas normal. 
+Kadar SGOT pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar SGOT di atas batas normal. 
+Pasien memiliki kadar SGOT di bawah batas normal. 
+Kadar SGOT berada di atas batas normal.
+Kadar SGOT berada di bawah batas normal.
+Kadar SGPT pasien mengalami peningkatan dari batas normal. 
+Kadar SGPT pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar SGOT di atas batas normal. 
+Pasien memiliki kadar SGOT di bawah batas normal. 
+Kadar SGPT berada di atas batas normal.
+Kadar SGPT berada di bawah batas normal.
+Kadar ureum pasien mengalami peningkatan dari batas normal. 
+Kadar ureum pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar ureum di atas batas normal. 
+Pasien memiliki kadar ureum di bawah batas normal. 
+Kadar ureum berada di atas batas normal.
+Kadar ureum berada di bawah batas normal. 
+Kadar kreatinin pasien mengalami peningkatan dari batas normal. 
+Kadar kreatinin pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar kreatinin di atas batas normal. 
+Pasien memiliki kadar kreatinin di bawah batas normal. 
+Kadar kreatinin berada di atas batas normal.
+Kadar kreatinin berada di bawah batas normal. 
+Kadar asam urat pasien mengalami peningkatan dari batas normal. 
+Kadar asam urat pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar asam urat di atas batas normal. 
+Pasien memiliki kadar asam urat di bawah batas normal. 
+Kadar asam urat berada di atas batas normal.
+Kadar asam urat berada di bawah batas normal. 
+Kadar kolesterol total pasien mengalami peningkatan dari batas normal. 
+Kadar kolesterol total pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar kolesterol total di atas batas normal. 
+Pasien memiliki kadar kolesterol total di bawah batas normal. 
+Kadar kolesterol total berada di atas batas normal.
+Kadar kolesterol total berada di bawah batas normal. 
+Kadar HDL kolesterol pasien mengalami peningkatan dari batas normal. 
+Kadar HDL kolesterol pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar HDL kolesterol di atas batas normal. 
+Pasien memiliki kadar HDL kolesterol di bawah batas normal. 
+Kadar HDL kolesterol berada di atas batas normal.
+Kadar HDL kolesterol berada di bawah batas normal.
+Kadar LDL kolesterol pasien mengalami peningkatan dari batas normal. 
+Kadar LDL kolesterol pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar LDL kolesterol di atas batas normal. 
+Pasien memiliki kadar LDL kolesterol di bawah batas normal. 
+Kadar LDL kolesterol berada di atas batas normal.
+Kadar LDL kolesterol berada di bawah batas normal.
+Kadar trigliserida pasien mengalami peningkatan dari batas normal. 
+Kadar trigliserida pasien mengalami penurunan dari batas normal. 
+Pasien memiliki kadar trigliserida di atas batas normal. 
+Pasien memiliki kadar trigliserida di bawah batas normal. 
+Kadar trigliserida berada di atas batas normal.
+Kadar trigliserida berada di bawah batas normal.
